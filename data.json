@@ -1,0 +1,41 @@
+[
+{
+    
+    "nome":"JavaScript",
+    "descricao":"Linguagem de programação usada principalmente para desenvolvimento web.",
+    "ano":1995,
+    "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    
+    "nome":"Python",
+    "descricao":"Linguagem de programação de alto nível, conhecida por sua legibilidade e versatilidade.",
+    "ano":1991,
+    "link":"https://www.python.org/"
+},
+{
+    "nome":"Java",
+    "descricao":"Linguagem de programação orientada a objetos, popular para aplicações empresariais e Android.",
+    "ano":1995,
+    "link":"https://www.java.com/"
+},
+{
+    "nome":"C#",
+    "descricao":"Linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+    "ano":2000,
+    "link":"https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome":"TypeScript",
+    "descricao":"Superset do JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "ano":2012,
+    "link":"https://www.typescriptlang.org/"
+},
+{
+    "nome":"Go",
+    "descricao":"Linguagem de programação compilada e concorrente desenvolvida pelo Google.",
+    "ano":2009,
+    "link":"https://go.dev/"
+}
+
+]

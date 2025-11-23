@@ -1,0 +1,89 @@
+body {
+    background-color: cadetblue;
+
+     font-family: "Special Gothic", sans-serif;
+    margin: 0;
+
+}
+header {
+    background-color: darkcyan;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+button {
+    padding: 10px 15px;
+    background-color: darkslategray;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(31, 216, 216);
+}
+.results {
+    margin: 20px;
+    padding: 20px;
+    background-color: lightcyan;
+    border-radius: 5px;
+}
+.result-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.result-item:last-child {
+    border-bottom: none;
+}
+.result-item h2 {
+    margin: 0;
+    color: darkslategray;
+}
+.result-item p {
+    margin: 5px 0 0 0;
+    color: dimgray;
+}
+.result-item a {
+    color: rgb(39, 47, 47);
+    text-decoration: none;
+}
+.result-item a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: darkcyan;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+footer p {
+    margin: 0;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+.results-count {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#caixa-busca {
+    width: 250px;
+}
+#botao-busca {
+    margin-left: 10px;
+}
